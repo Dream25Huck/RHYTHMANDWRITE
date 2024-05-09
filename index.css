@@ -1,0 +1,15 @@
+html{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.main{
+  background: url(firstPage.png) center/contain no-repeat;
+  width: 100%;
+  height: 100vh;
+  background-color: antiquewhite;
+}
